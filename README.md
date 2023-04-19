@@ -1,2 +1,2 @@
 # clock
-Relógio que mostra data e hora
+relógio analógico e digital, que mostra também a data
